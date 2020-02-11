@@ -1,6 +1,4 @@
-# terraform-aws-c2
-
-Deploy Convenant C2 Server to AWS.
+# Covenant C2 Server
 
 # Requirements
 
@@ -22,7 +20,7 @@ variable "aws_access_key" {
   default = "D0N7PV5HC23DST0617HVB"
 }
 variable "aws_secret_key" {
-  default = "D0N7PV5HC23DST0617HVB"
+  default = "lsoffcdpipeo4klfoLOLj4odj2o4jiopf"
 }
 variable "aws_region" {
   default = "eu-central-1"
